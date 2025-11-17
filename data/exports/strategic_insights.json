@@ -1,0 +1,234 @@
+{
+  "temporal_trend": {
+    "temp_slope": 0.04977567963954898,
+    "do_slope": -0.0020090749474428876,
+    "critical_slope": 0.26758903265441153,
+    "years_analyzed": 16
+  },
+  "feature_importance": [
+    {
+      "factor": "PH",
+      "importance": 0.2778649406016283,
+      "importance_pct": 27.786494060162838
+    },
+    {
+      "factor": "TEMP",
+      "importance": 0.24716216729148763,
+      "importance_pct": 24.716216729148766
+    },
+    {
+      "factor": "temp_squared",
+      "importance": 0.23547701555637382,
+      "importance_pct": 23.547701555637385
+    },
+    {
+      "factor": "SPCOND",
+      "importance": 0.1793396479621688,
+      "importance_pct": 17.933964796216884
+    },
+    {
+      "factor": "is_summer",
+      "importance": 0.05812289988403958,
+      "importance_pct": 5.812289988403959
+    },
+    {
+      "factor": "is_high_conductivity",
+      "importance": 0.0015893982131268704,
+      "importance_pct": 0.15893982131268705
+    },
+    {
+      "factor": "is_hot",
+      "importance": 0.00044393049117487826,
+      "importance_pct": 0.04439304911748783
+    }
+  ],
+  "scenarios": {
+    "more_rain": {
+      "change_DO": 0.19414137285707245,
+      "direction": "positive"
+    },
+    "more_salt": {
+      "change_DO": -0.2473937639344852,
+      "critical_increase": -208.0
+    },
+    "heat_wave": {
+      "change_DO": -0.20996277894437476,
+      "critical_increase": -194.0
+    },
+    "worst_case": {
+      "change_DO": -0.6161113596332797,
+      "critical_pct": 16.895742541066042
+    }
+  },
+  "consistent_problems": 3,
+  "watershed_correlations": [
+    {
+      "watershed": "Quinebaug",
+      "correlation": -0.7726561595837034,
+      "n_samples": 230,
+      "n_sites": 16
+    },
+    {
+      "watershed": "Millers",
+      "correlation": -0.7628365626133037,
+      "n_samples": 568,
+      "n_sites": 48
+    },
+    {
+      "watershed": "French",
+      "correlation": -0.7539853163440108,
+      "n_samples": 149,
+      "n_sites": 8
+    },
+    {
+      "watershed": "Blackstone",
+      "correlation": -0.7244471302213618,
+      "n_samples": 714,
+      "n_sites": 86
+    },
+    {
+      "watershed": "Deerfield",
+      "correlation": -0.700589614992475,
+      "n_samples": 174,
+      "n_sites": 27
+    },
+    {
+      "watershed": "Narragansett Bay (Shore)",
+      "correlation": -0.678391311228638,
+      "n_samples": 98,
+      "n_sites": 15
+    },
+    {
+      "watershed": "Hoosic",
+      "correlation": -0.6225863151252011,
+      "n_samples": 209,
+      "n_sites": 40
+    },
+    {
+      "watershed": "Concord (SuAsCo)",
+      "correlation": -0.5836189556936152,
+      "n_samples": 663,
+      "n_sites": 79
+    },
+    {
+      "watershed": "Neponset",
+      "correlation": -0.5643468868933967,
+      "n_samples": 158,
+      "n_sites": 31
+    },
+    {
+      "watershed": "Chicopee",
+      "correlation": -0.5363574023706051,
+      "n_samples": 842,
+      "n_sites": 119
+    },
+    {
+      "watershed": "Nashua",
+      "correlation": -0.5089397245584243,
+      "n_samples": 725,
+      "n_sites": 63
+    },
+    {
+      "watershed": "Ten Mile",
+      "correlation": -0.5008712425873793,
+      "n_samples": 179,
+      "n_sites": 24
+    },
+    {
+      "watershed": "Mount Hope Bay (Shore)",
+      "correlation": -0.48018528651484804,
+      "n_samples": 61,
+      "n_sites": 8
+    },
+    {
+      "watershed": "Weymouth & Weir",
+      "correlation": -0.44744099772363405,
+      "n_samples": 146,
+      "n_sites": 26
+    },
+    {
+      "watershed": "Connecticut",
+      "correlation": -0.2957264389385703,
+      "n_samples": 444,
+      "n_sites": 76
+    },
+    {
+      "watershed": "Housatonic",
+      "correlation": -0.2881606535346768,
+      "n_samples": 313,
+      "n_sites": 45
+    },
+    {
+      "watershed": "Shawsheen",
+      "correlation": -0.21839806667558526,
+      "n_samples": 158,
+      "n_sites": 21
+    },
+    {
+      "watershed": "Ipswich",
+      "correlation": -0.18150433781720524,
+      "n_samples": 177,
+      "n_sites": 20
+    },
+    {
+      "watershed": "Buzzards Bay",
+      "correlation": -0.14159513573968574,
+      "n_samples": 495,
+      "n_sites": 48
+    },
+    {
+      "watershed": "Taunton",
+      "correlation": -0.11099159690887321,
+      "n_samples": 629,
+      "n_sites": 67
+    },
+    {
+      "watershed": "North Coastal",
+      "correlation": -0.10894239501975636,
+      "n_samples": 219,
+      "n_sites": 26
+    },
+    {
+      "watershed": "Farmington",
+      "correlation": -0.05345968157845191,
+      "n_samples": 166,
+      "n_sites": 19
+    },
+    {
+      "watershed": "Westfield",
+      "correlation": -0.0162716005624564,
+      "n_samples": 320,
+      "n_sites": 53
+    },
+    {
+      "watershed": "South Coastal",
+      "correlation": 0.008770889867047415,
+      "n_samples": 185,
+      "n_sites": 29
+    },
+    {
+      "watershed": "Charles",
+      "correlation": 0.08197811418986141,
+      "n_samples": 396,
+      "n_sites": 48
+    },
+    {
+      "watershed": "Mystic",
+      "correlation": 0.28180095802891475,
+      "n_samples": 246,
+      "n_sites": 20
+    },
+    {
+      "watershed": "Cape Cod",
+      "correlation": 0.4333277919524153,
+      "n_samples": 461,
+      "n_sites": 35
+    },
+    {
+      "watershed": "Merrimack",
+      "correlation": 0.49614880884962437,
+      "n_samples": 142,
+      "n_sites": 20
+    }
+  ]
+}

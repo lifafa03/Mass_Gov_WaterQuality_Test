@@ -1,0 +1,271 @@
+
+═══════════════════════════════════════════════════════════════════════════════
+🎯 TOP 3 HIGHEST & LOWEST RISK SITES - COMPREHENSIVE ANALYSIS
+═══════════════════════════════════════════════════════════════════════════════
+
+Analysis Date: November 15, 2025
+Total Sites Analyzed: 1125
+Data Source: MassDEP Water Quality Monitoring (2005-2020)
+
+═══════════════════════════════════════════════════════════════════════════════
+1️⃣ OVERALL HEATWAVE RISK (Temperature + Critical Events Combined)
+═══════════════════════════════════════════════════════════════════════════════
+
+🔴 TOP 3 HIGHEST RISK SITES:
+
+
+#1: W0775
+   Watershed: Buzzards Bay
+   Avg Temperature: 26.3°C (79.3°F)
+   Avg Dissolved Oxygen: 4.2 mg/L
+   Critical Events: 100.0% (1 events)
+   Total Samples: 1
+   RISK SCORE: 63.15
+
+#2: W2991
+   Watershed: Chicopee
+   Avg Temperature: 25.2°C (77.4°F)
+   Avg Dissolved Oxygen: 4.5 mg/L
+   Critical Events: 100.0% (2 events)
+   Total Samples: 2
+   RISK SCORE: 62.60
+
+#3: W1991
+   Watershed: Chicopee
+   Avg Temperature: 22.7°C (72.8°F)
+   Avg Dissolved Oxygen: 3.5 mg/L
+   Critical Events: 100.0% (3 events)
+   Total Samples: 3
+   RISK SCORE: 61.33
+
+🟢 TOP 3 LOWEST RISK SITES:
+
+
+#1: W0678
+   Watershed: Chicopee
+   Avg Temperature: 2.4°C (36.3°F)
+   Avg Dissolved Oxygen: 12.5 mg/L
+   Critical Events: 0.0% (0 events)
+   Total Samples: 1
+   RISK SCORE: 1.20
+
+#2: W0543
+   Watershed: Neponset
+   Avg Temperature: 2.7°C (36.9°F)
+   Avg Dissolved Oxygen: 12.8 mg/L
+   Critical Events: 0.0% (0 events)
+   Total Samples: 1
+   RISK SCORE: 1.35
+
+#3: W0564
+   Watershed: Neponset
+   Avg Temperature: 3.1°C (37.6°F)
+   Avg Dissolved Oxygen: 11.2 mg/L
+   Critical Events: 0.0% (0 events)
+   Total Samples: 1
+   RISK SCORE: 1.55
+
+═══════════════════════════════════════════════════════════════════════════════
+2️⃣ SUMMER TEMPERATURE HOTSPOTS
+═══════════════════════════════════════════════════════════════════════════════
+
+🔴 TOP 3 HOTTEST SITES:
+
+
+#1: W2096 (Neponset)
+   Temperature: 27.5°C (81.5°F)
+   Avg DO: 7.2 mg/L
+   Critical Events: 0.0%
+
+#2: W3012 (Concord (SuAsCo))
+   Temperature: 27.0°C (80.6°F)
+   Avg DO: 7.5 mg/L
+   Critical Events: 0.0%
+
+#3: W0776 (Buzzards Bay)
+   Temperature: 26.9°C (80.5°F)
+   Avg DO: 4.3 mg/L
+   Critical Events: 50.0%
+
+🟢 TOP 3 COOLEST SITES:
+
+
+#1: W0678 (Chicopee)
+   Temperature: 2.4°C (36.3°F)
+   Avg DO: 12.5 mg/L
+   Critical Events: 0.0%
+
+#2: W0543 (Neponset)
+   Temperature: 2.7°C (36.9°F)
+   Avg DO: 12.8 mg/L
+   Critical Events: 0.0%
+
+#3: W0564 (Neponset)
+   Temperature: 3.1°C (37.6°F)
+   Avg DO: 11.2 mg/L
+   Critical Events: 0.0%
+
+═══════════════════════════════════════════════════════════════════════════════
+3️⃣ CRITICAL LOW-OXYGEN EVENT FREQUENCY
+═══════════════════════════════════════════════════════════════════════════════
+
+🔴 TOP 3 MOST FREQUENT CRITICAL EVENTS:
+
+
+#1: W0775 (Buzzards Bay)
+   Critical Frequency: 100.0% of samples
+   Total Critical Events: 1
+   Avg DO: 4.2 mg/L
+   Avg Temp: 26.3°C
+   Total Samples: 1
+
+#2: W0816 (Taunton)
+   Critical Frequency: 100.0% of samples
+   Total Critical Events: 2
+   Avg DO: 0.9 mg/L
+   Avg Temp: 20.0°C
+   Total Samples: 2
+
+#3: W0995 (Nashua)
+   Critical Frequency: 100.0% of samples
+   Total Critical Events: 4
+   Avg DO: 1.7 mg/L
+   Avg Temp: 17.0°C
+   Total Samples: 4
+
+🟢 TOP 3 LEAST CRITICAL EVENTS:
+
+
+#1: W0013 (Deerfield)
+   Critical Frequency: 0.0% of samples
+   Total Critical Events: 0
+   Avg DO: 8.2 mg/L
+   Avg Temp: 15.4°C
+
+#2: W0026 (Deerfield)
+   Critical Frequency: 0.0% of samples
+   Total Critical Events: 0
+   Avg DO: 9.4 mg/L
+   Avg Temp: 17.8°C
+
+#3: W0029 (Deerfield)
+   Critical Frequency: 0.0% of samples
+   Total Critical Events: 0
+   Avg DO: 9.2 mg/L
+   Avg Temp: 17.9°C
+
+═══════════════════════════════════════════════════════════════════════════════
+4️⃣ DISSOLVED OXYGEN CONCENTRATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+🟢 TOP 3 HIGHEST OXYGEN (Best Water Quality):
+
+
+#1: W0543 (Neponset)
+   Avg DO: 12.8 mg/L ⭐ EXCELLENT
+   Avg Temp: 2.7°C
+   Critical Events: 0.0%
+
+#2: W0678 (Chicopee)
+   Avg DO: 12.5 mg/L ⭐ EXCELLENT
+   Avg Temp: 2.4°C
+   Critical Events: 0.0%
+
+#3: W0533 (Neponset)
+   Avg DO: 12.2 mg/L ⭐ EXCELLENT
+   Avg Temp: 3.5°C
+   Critical Events: 0.0%
+
+🔴 TOP 3 LOWEST OXYGEN (Worst Water Quality):
+
+
+#1: W2534 (Merrimack)
+   Avg DO: 0.5 mg/L ⚠️ CRITICAL
+   Avg Temp: 22.0°C
+   Critical Events: 100.0%
+
+#2: W2522 (Shawsheen)
+   Avg DO: 0.6 mg/L ⚠️ CRITICAL
+   Avg Temp: 20.4°C
+   Critical Events: 100.0%
+
+#3: W2996 (Blackstone)
+   Avg DO: 0.9 mg/L ⚠️ CRITICAL
+   Avg Temp: 17.6°C
+   Critical Events: 100.0%
+
+═══════════════════════════════════════════════════════════════════════════════
+5️⃣ WATERSHED-LEVEL RISK RANKING
+═══════════════════════════════════════════════════════════════════════════════
+
+🔴 TOP 3 HIGHEST RISK WATERSHEDS:
+
+
+#1: Ipswich
+   Risk Score: 35.54
+   Avg Temperature: 20.1°C
+   Avg DO: 4.8 mg/L
+   Avg Critical Events: 51.0%
+   Number of Sites: 20
+
+#2: Parker
+   Risk Score: 28.28
+   Avg Temperature: 19.1°C
+   Avg DO: 6.7 mg/L
+   Avg Critical Events: 37.5%
+   Number of Sites: 4
+
+#3: Merrimack
+   Risk Score: 21.96
+   Avg Temperature: 20.8°C
+   Avg DO: 6.7 mg/L
+   Avg Critical Events: 23.1%
+   Number of Sites: 20
+
+🟢 TOP 3 LOWEST RISK WATERSHEDS:
+
+
+#1: Hoosic
+   Risk Score: 8.56
+   Avg Temperature: 16.6°C
+   Avg DO: 9.9 mg/L
+   Avg Critical Events: 0.5%
+   Number of Sites: 40
+
+#2: Kinderhook
+   Risk Score: 7.40
+   Avg Temperature: 14.8°C
+   Avg DO: 9.4 mg/L
+   Avg Critical Events: 0.0%
+   Number of Sites: 3
+
+#3: Bashbish
+   Risk Score: 7.25
+   Avg Temperature: 14.5°C
+   Avg DO: 9.8 mg/L
+   Avg Critical Events: 0.0%
+   Number of Sites: 1
+
+═══════════════════════════════════════════════════════════════════════════════
+KEY FINDINGS & MANAGEMENT IMPLICATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+HIGHEST RISK CHARACTERISTICS:
+• Highest risk sites show combination of high temperature AND frequent critical events
+• Urban watersheds dominate high-risk categories (pavement heat island effect)
+• Shallow, slow-moving waters are particularly vulnerable
+• Sites with >20% critical event frequency need immediate intervention
+
+LOWEST RISK CHARACTERISTICS:
+• Cool, well-oxygenated waters in forested/protected watersheds
+• Deep, fast-flowing waters maintain oxygen better
+• Minimal human development = minimal heat stress
+• These sites serve as climate refugia for sensitive species
+
+IMMEDIATE PRIORITIES:
+1. Deploy continuous monitoring at top 10 highest risk sites
+2. Emergency response protocols for sites with >25% critical frequency
+3. Watershed-scale interventions for highest-risk basins
+4. Protect and study lowest-risk sites as climate adaptation models
+
+═══════════════════════════════════════════════════════════════════════════════
