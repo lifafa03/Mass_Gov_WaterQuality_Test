@@ -1,0 +1,11 @@
+# GitHub language statistics configuration
+# Exclude generated HTML maps and data files from language stats
+*.html linguist-vendored
+*.json linguist-vendored
+*.csv linguist-vendored
+
+# Documentation files
+*.md linguist-documentation
+
+# Mark Python as primary language
+*.py linguist-language=Python
